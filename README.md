@@ -1,2 +1,2 @@
 # wtho.github.io
-Write The Heck Out
+Write the Heck Out
