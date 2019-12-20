@@ -10,4 +10,4 @@ I am a hardware engineer with software interests. Experiences in:
 * Test Equipment Automation. <br/>
 
 Please feel free to let me know if anything needs to be fixed in my repository. They are mostly hardware-related codes. 
-Proud Yellowjacket. 
+Proud Yellow Jacket. 
