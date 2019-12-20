@@ -9,5 +9,5 @@ I am a hardware engineer with software interests. Experiences in:
 * Linux Shell Scripting
 * Electronics Lab Equipment Automation. <br/>
 
-Please feel free to let me know if anything needs to be fixed in my repository. They are mostly hardware-related codes. 
+Please feel free to let me know if anything needs to be fixed in my repository. They are mostly hardware-related codes. <br/>
 Proud Yellow Jacket. 
