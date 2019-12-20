@@ -7,7 +7,7 @@ I am a hardware engineer with software interests. Experiences in:
 * RF Engineering 
 * Firmware 
 * Linux Shell Scripting
-* Test Equipment Automation. <br/>
+* Electronics Lab Equipment Automation. <br/>
 
 Please feel free to let me know if anything needs to be fixed in my repository. They are mostly hardware-related codes. 
 Proud Yellow Jacket. 
