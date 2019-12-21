@@ -1,7 +1,7 @@
 # Welcome to @zchen93's homepage.
 ## This site is still being constructed.
 ### Brief Intro
-I am a hardware engineer with software interests. Experiences in: 
+I am a hardware design engineer with software interests. Experiences in: 
 * EDA 
 * Power Electronics 
 * RF Engineering 
