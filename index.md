@@ -1,7 +1,8 @@
 # Welcome to @zchen93's homepage.
-## This site is still being constructed.
+## 
 ### Brief Intro
-I am a hardware design engineer with software interests. Experiences in: 
+I am a hardware design engineer with software interests. 
+Currently, I am a PhD Student in the Department of Electrical and Computer Engineering at Santa Clara University. My area of focus is Radio Frequency/Electromagnetics. I have experiences in: 
 * EDA 
 * Power Electronics 
 * RF Engineering 
