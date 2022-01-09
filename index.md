@@ -1,4 +1,4 @@
-# Welcome to @zchen93's homepage.
+# Welcome to Fred Chen's homepage
 ### Brief Intro
 Glad that you are here! I am a PhD Student in the Department of Electrical and Computer Engineering at the Santa Clara University, Santa Clara, California, United States of America. My area of focus is Applied Electromagnetics/RF Engineering. I have past experiences in: 
 * Electronics Design & Application
