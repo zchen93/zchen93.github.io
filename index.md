@@ -9,5 +9,3 @@ Glad that you are here! I am a PhD Student in the Department of Electrical and C
 * Electronics Lab Equipment Automation. <br/>
 
 Publication list yet to be posted. 
-
-Here's me selling myself on LinkedIn: https://www.linkedin.com/in/zengweijiechen/
