@@ -1,3 +1,5 @@
+let table = new DataTable('#myTable');
+
 ## Building a low-cost NAS
 Building a DIY NAS (Network-Attached Storage) is a fantastic project for anyone looking to centralize their data storage, streamline backups, or create a personal media server. With the ability to customize the hardware and software, a DIY NAS offers flexibility and cost-effectiveness compared to pre-built systems. Combining my technical skills with my passion for DIY projects is exciting, from selecting suitable hard drives to configuring power-efficient components. Plus, with everything stored on a personal server, I can easily access data from anywhere while ensuring privacy and control over my files.
 
