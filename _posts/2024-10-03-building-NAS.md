@@ -11,8 +11,9 @@ Considering the cost factor and data safety, I seek to have a NAS supporting 2+ 
 | Synology | DS-423 | 4 | 369 + Tax | https://www.bhphotovideo.com/c/product/1767280-REG/synology_diskstation_ds423_4_bay_nas.html |
 | Synology | DS-423+ | 4 | 499 + Tax | https://www.bhphotovideo.com/c/product/1757288-REG/synology_diskstation_ds423_4_bay_nas.html |
 | AsusStor | AS1104T | 4 | 239 + Tax | https://www.bhphotovideo.com/c/product/1652766-REG/asustor_as1104t_drivestor_4_4_bay_nas.html |
-| QNAP | TL-D400s | 4 | | https://www.bhphotovideo.com/c/product/1556654-REG/qnap_tl_d400s_us_4_bay_desktop_sata_jbod.html |
 | AsusStor | Drivestor 4 Pro Gen2 | 4 | 319 + Tax |  https://www.bhphotovideo.com/c/product/1801856-REG/asustor_as3304t_v2_drivestor_2_pro_gen2.html |
+| QNAP | TL-D400s | 4 | 299 + Tax | https://www.bhphotovideo.com/c/product/1556654-REG/qnap_tl_d400s_us_4_bay_desktop_sata_jbod.html |
+| QNAP | TS-433 | 4 | 379 + Tax |  https://www.bhphotovideo.com/c/product/1722875-REG/qnap_ts_433_4g_us_4_bay_personal_cloud_nas_backup_data.html |
 
 ===========================
 
