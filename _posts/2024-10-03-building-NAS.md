@@ -1,4 +1,28 @@
-let table = new DataTable('#myTable');
+
+markdown="span"
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+</tr>
+<tr>
+<td markdown="span">Second column **fields**</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Building a low-cost NAS
 Building a DIY NAS (Network-Attached Storage) is a fantastic project for anyone looking to centralize their data storage, streamline backups, or create a personal media server. With the ability to customize the hardware and software, a DIY NAS offers flexibility and cost-effectiveness compared to pre-built systems. Combining my technical skills with my passion for DIY projects is exciting, from selecting suitable hard drives to configuring power-efficient components. Plus, with everything stored on a personal server, I can easily access data from anywhere while ensuring privacy and control over my files.
