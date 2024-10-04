@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Hey, I’m an RF Engineer who’s passionate about wireless technology and loves working on everything from wireless module design to amplifier optimization. I’ve got hands-on experience with Power Amplifier and Low-Noise Amplifier design, filtering, and impedance matching, focusing on building high-performance systems. When I’m not immersed in RF projects, you’ll probably find me riding motorcycles, working on mechanical projects, hiking, or traveling. I’m also always reading up on the latest tech innovations. After some time in the Army and welcoming a newborn, I’m excited to explore new opportunities in RF engineering!
