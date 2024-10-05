@@ -88,6 +88,9 @@ TBD
 ### Power Supply Unit
 SFX PSU TBD
 
+### NAS Operating System
+[TrueNAS](https://www.truenas.com/)
+
 ![placeholder picture](../pics/DSC03271.JPG)
 
 ###### Table 2: My DIY NAS Components
