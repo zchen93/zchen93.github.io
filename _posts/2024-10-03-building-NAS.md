@@ -154,6 +154,5 @@ SFX PSU TBD
     <td class="tg-9wq8">TBD</td>
   </tr>
 </tbody></table>
-<img src="../pics/DSC03271.JPG" class="img-responsive" alt=""> </div>
 
 [To be continued]
