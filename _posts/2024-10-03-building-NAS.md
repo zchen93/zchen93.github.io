@@ -6,7 +6,7 @@ Building a DIY NAS (Network-Attached Storage) is a fantastic project for anyone 
 Commercial Off-The-Shelf (COTS) NAS devices can be quite expensive, especially when compared to building your DIY solution. Popular models from brands like Synology or QNAP often come with a hefty price tag, especially as you scale up in storage capacity and advanced features like hardware RAID, encryption, or multi-bay configurations. High-end COTS NAS systems can easily range from $500 to over $2,000, and that's often without the cost of hard drives, which can add hundreds more depending on the desired storage capacity. These pre-built solutions are convenient but can limit customization, meaning you often pay a premium for features you might not need or use. Building your own NAS can offer better value for those comfortable with DIY projects, allowing you to tailor the system to your specific needs at a fraction of the cost.
 
 Considering the cost factor and data safety, I seek to have a NAS supporting 2+ disk spaces for expandability, and I would start by placing two drives, forming a RAID 5 configuration (https://www.asustor.com/en/online/College_topic?topic=352). After a brief survey, I found the 4-Bay COTS products under US$500 can be summarized below: 
-
+<link rel="stylesheet" href="../css/tg.css">
 <table class="tg"><thead>
   <tr>
     <th class="tg-9wq8">Brand</th>
@@ -59,7 +59,8 @@ Considering the cost factor and data safety, I seek to have a NAS supporting 2+ 
     <td class="tg-nrix">https://www.bhphotovideo.com/c/product/1722875-REG/qnap_ts_433_4g_us_4_bay_personal_cloud_nas_backup_data.html</td>
   </tr>
 </tbody></table>
-===========================
+
+The lowest-priced NAS mentioned earlier is the AsusStor AS1104T, which costs around $260 including tax. But can I build a solution for a similar price that offers more disk bays, better computing power, and more versatile connectivity? Challenge accepted!
 
 # Table 2: My DIY NAS Components
 | Component | Brand & Model | Price (USD) | Link |
