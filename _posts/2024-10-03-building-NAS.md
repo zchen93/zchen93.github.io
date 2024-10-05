@@ -2,7 +2,7 @@
 [//]: <> (https://paperhive.org/help/markdown)
 Building a DIY NAS (Network-Attached Storage) is a fantastic project for anyone looking to centralize their data storage, streamline backups, or create a personal media server. With the ability to customize the hardware and software, a DIY NAS offers flexibility and cost-effectiveness compared to pre-built systems. Combining my technical skills with my passion for DIY projects is exciting, from selecting suitable hard drives to configuring power-efficient components. Plus, with everything stored on a personal server, I can easily access data from anywhere while ensuring privacy and control over my files.
 
-Commercial Off-The-Shelf (COTS) NAS devices can be quite expensive, especially when compared to building your DIY solution. Popular models from brands like Synology or QNAP often come with a hefty price tag, especially as you scale up in storage capacity and advanced features like hardware RAID, encryption, or multi-bay configurations. High-end COTS NAS systems can easily range from $250 to over $2,000, and that's often without the cost of hard drives, which can add hundreds more depending on the desired storage capacity. These pre-built solutions are convenient but can limit customization, meaning you often pay a premium for features you might not need or use. Building your own NAS can offer better value for those comfortable with DIY projects, allowing you to tailor the system to your specific needs at a fraction of the cost.
+Commercial Off-The-Shelf (COTS) NAS devices can be quite expensive, especially when compared to building your DIY solution. Popular models from brands like Synology or QNAP often come with a hefty price tag, especially as you scale up in storage capacity and advanced features like hardware RAID, easy-to-use OS, or multi-bay configurations. The COTS NAS systems can easily range from $250 to over $2,000, and that's often without the cost of hard drives, which can add hundreds more depending on the desired storage capacity. Building your own NAS can offer better value for those comfortable with DIY projects, allowing you to tailor the system to your specific needs at a fraction of the cost.
 
 Considering the cost factor and data safety, I seek to have a NAS supporting 2+ disk spaces for expandability, and I would start by placing two drives, forming a RAID 5 configuration (https://www.asustor.com/en/online/College_topic?topic=352). After a brief survey, I found the 4-Bay COTS products under US$500 can be summarized below: 
 
@@ -156,3 +156,9 @@ SFX PSU TBD
 </tbody></table>
 
 [To be continued]
+
+## Phase 1: Assemble the hardware
+
+## Phase 2: Install the Operating System and initialization
+
+## Phase 3: Access it over the Internet
