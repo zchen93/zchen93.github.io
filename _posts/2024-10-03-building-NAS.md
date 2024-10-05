@@ -74,7 +74,9 @@ The lowest-priced NAS mentioned earlier is the AsusStor AS1104T, which costs aro
 
 ## Selecting the parts
 ### Case
-Inspired by the article [DIY NAS: 2023 Edition](https://blog.briancmoses.com/2023/03/diy-nas-2023-edition.html), I chose the Jonsbo N1 case for my NAS build. It’s ideal for my needs, supporting a Mini-ITX motherboard, a dedicated power supply unit, and offering space for six HDD bays—perfect for expanding storage while maintaining a compact footprint. It can be found at US$140 + Tax on Amazon, or you can find it at US$85 + US$30 of shipping from JD in China. 
+Inspired by the article [DIY NAS: 2023 Edition](https://blog.briancmoses.com/2023/03/diy-nas-2023-edition.html), I chose the Jonsbo N1 case for my NAS build. It’s ideal for my needs, supporting a Mini-ITX motherboard and a dedicated power supply unit and offering space for six HDD bays—perfect for expanding storage while maintaining a compact footprint. It can be found at US$140 + tax on Amazon, or you can find it at US$85 + US$30 for shipping from JD in China. 
+
+![placeholder picture](../pics/DSC03271.JPG)
 
 ###### Table 2: My DIY NAS Components
 <style type="text/css">
