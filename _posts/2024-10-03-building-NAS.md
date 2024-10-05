@@ -7,15 +7,6 @@ Commercial Off-The-Shelf (COTS) NAS devices can be quite expensive, especially w
 
 Considering the cost factor and data safety, I seek to have a NAS supporting 2+ disk spaces for expandability, and I would start by placing two drives, forming a RAID 5 configuration (https://www.asustor.com/en/online/College_topic?topic=352). After a brief survey, I found the 4-Bay COTS products under US$500 can be summarized below: 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
-.tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
 <table class="tg"><thead>
   <tr>
     <th class="tg-9wq8">Brand</th>
