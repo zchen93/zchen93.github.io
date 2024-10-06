@@ -102,35 +102,28 @@ SFX PSU TBD
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 510px"><colgroup>
-<col style="width: 90px">
-<col style="width: 68px">
-<col style="width: 74px">
-<col style="width: 49px">
-<col style="width: 229px">
-</colgroup>
-<thead>
+<table class="tg"><thead>
   <tr>
     <th class="tg-9wq8">Component</th>
-    <th class="tg-9wq8">Model</th>
     <th class="tg-9wq8">Brand</th>
-    <th class="tg-9wq8">Price (USD)</th>
+    <th class="tg-9wq8">Model</th>
+    <th class="tg-9wq8">Cost (USD)</th>
     <th class="tg-9wq8">Link</th>
   </tr></thead>
 <tbody>
   <tr>
     <td class="tg-9wq8">Case</td>
-    <td class="tg-9wq8">N1</td>
     <td class="tg-9wq8">Jonsbo</td>
+    <td class="tg-9wq8">N1</td>
     <td class="tg-9wq8">110</td>
     <td class="tg-9wq8">https://item.jd.com/10038246252061.html</td>
   </tr>
   <tr>
     <td class="tg-9wq8">Motherboard + CPU</td>
-    <td class="tg-9wq8">TBD</td>
     <td class="tg-9wq8">Topton</td>
-    <td class="tg-9wq8">TBD</td>
-    <td class="tg-9wq8">TBD</td>
+    <td class="tg-9wq8">N100</td>
+    <td class="tg-9wq8">149.41</td>
+    <td class="tg-9wq8">https://www.aliexpress.us/item/3256807568353576.html</td>
   </tr>
   <tr>
     <td class="tg-9wq8">HDD</td>
@@ -141,17 +134,17 @@ SFX PSU TBD
   </tr>
   <tr>
     <td class="tg-9wq8">Memory</td>
-    <td class="tg-9wq8">TBD</td>
-    <td class="tg-9wq8">TBD</td>
-    <td class="tg-9wq8">TBD</td>
-    <td class="tg-9wq8">TBD</td>
+    <td class="tg-9wq8">Teamgroup<br></td>
+    <td class="tg-9wq8">DDR5 16GB 4800 MHz SO-DIMM<br></td>
+    <td class="tg-9wq8">42.55</td>
+    <td class="tg-9wq8">https://www.amazon.com/gp/product/B09X1WVTHS/</td>
   </tr>
   <tr>
     <td class="tg-9wq8">Power Supply</td>
-    <td class="tg-9wq8">TBD</td>
-    <td class="tg-9wq8">TBD</td>
-    <td class="tg-9wq8">TBD</td>
-    <td class="tg-9wq8">TBD</td>
+    <td class="tg-9wq8">FSP</td>
+    <td class="tg-9wq8">FSP-450-50SD</td>
+    <td class="tg-9wq8">56.63</td>
+    <td class="tg-9wq8">https://item.jd.com/6060172.html</td>
   </tr>
 </tbody></table>
 
