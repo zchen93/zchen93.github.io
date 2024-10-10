@@ -9,7 +9,8 @@ Transistor: https://www.minicircuits.com/WebStore/dashboard.html?model=TAV1-541%
 Components needed:
 1. Lump L
 2. Lump C
-3. Transistor
+3. Transistor (SiGe or GaAs)
 4. SMA Connectors x2
-5. 
+5. Bias lines
+6. RF Switch
 [tbd]
