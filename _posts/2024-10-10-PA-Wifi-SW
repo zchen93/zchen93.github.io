@@ -7,16 +7,18 @@ PCBWay
 Transistor: https://www.minicircuits.com/WebStore/dashboard.html?model=TAV1-541%2B
 
 Components needed:
-1. Lump L
-2. Lump C
+1. Lump L (2.4 GHz)
+2. Lump C (2.4 GHz)
 3. Transistor (SiGe or GaAs)
-4. SMA Connectors x2
+4. SMA Connectors x3 - 1 for 2.4 GHz input, 1 for 5 GHz input, 1 for output
 5. Bias lines
 6. RF Switch
 
 Approach: 
-1. Pick the transistor
+1. Pick the transistor (Mini-Circuits TAV1-541+ is likely the choice)
 2. Analyze the S-Parameters at target frequencies, i.e., 2450 MHz and 5850 (?) MHz. 
-2.1: [2412, 2484] MHz, [5160, 5340] MHz, [5480, 5885] MHz
-3. 
+2.1: [2412, 2484] MHz, BW: 72 MHz, f_{c} = 2448 MHz
+2.2: [5160, 5885] MHz, BW: 725 MHz, f_{c} = 5523 MHz
+3. Authorized maximum power output level: 30dBm. 
+
 [tbd]
