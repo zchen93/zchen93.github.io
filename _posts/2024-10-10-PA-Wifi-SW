@@ -15,10 +15,15 @@ Components needed:
 6. RF Switch
 
 Approach: 
-1. Pick the transistor (Mini-Circuits TAV1-541+ is likely the choice)
+1. Pick the transistor (Mini-Circuits TAV1-541+ is likely the choice.)
+1.1: Does the TAV1-541+ have a CAD model in Altium?
+1.2: How can we model it in ADS?
+
 2. Analyze the S-Parameters at target frequencies, i.e., 2450 MHz and 5850 (?) MHz. 
 2.1: [2412, 2484] MHz, BW: 72 MHz, f_{c} = 2448 MHz
+2.1.1: Assuming \eps_{r} = 10, \eps_{e} = 5.5, \lambda = 52.26 mm, \lambda/4 = 13.065 mm
 2.2: [5160, 5885] MHz, BW: 725 MHz, f_{c} = 5523 MHz
+2.2.1: Assuming \eps_{r} = 10, \eps_{e} = 5.5, \lambda = 23.16 mm, \lambda/4 = 5.79 mm
 3. Authorized maximum power output level: 30dBm. 
 
 [tbd]
