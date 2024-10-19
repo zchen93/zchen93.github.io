@@ -101,12 +101,12 @@ SFX PSU TBD
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-lqy6{text-align:right;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-9wq8">Item</th>
+    <th class="tg-9wq8">Component</th>
     <th class="tg-9wq8">Brand</th>
     <th class="tg-9wq8">Model</th>
     <th class="tg-9wq8">Cost (USD)</th>
@@ -118,64 +118,64 @@ SFX PSU TBD
     <td class="tg-9wq8">Jonsbo</td>
     <td class="tg-9wq8">N1</td>
     <td class="tg-9wq8">84.34</td>
-    <td class="tg-9wq8">https://item.jd.com/10038246252061.html</td>
+    <td class="tg-9wq8"><a href="https://item.jd.com/10038246252061.html" target="_blank" rel="noopener noreferrer">https://item.jd.com/10038246252061.html</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Motherboard + CPU</td>
     <td class="tg-9wq8">Topton</td>
     <td class="tg-9wq8">N100</td>
     <td class="tg-9wq8">149.41</td>
-    <td class="tg-9wq8">https://www.aliexpress.us/item/3256807568353576.html</td>
+    <td class="tg-9wq8"><a href="https://www.aliexpress.us/item/3256807568353576.html" target="_blank" rel="noopener noreferrer">https://www.aliexpress.us/item/3256807568353576.html</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">HDD</td>
     <td class="tg-9wq8">Seagate</td>
     <td class="tg-9wq8">IronWolf Pro 12TB</td>
     <td class="tg-9wq8">579.15</td>
-    <td class="tg-9wq8">https://www.ebay.com/itm/355874423254</td>
+    <td class="tg-9wq8"><a href="https://www.ebay.com/itm/355874423254" target="_blank" rel="noopener noreferrer">https://www.ebay.com/itm/355874423254</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Memory</td>
     <td class="tg-9wq8">Teamgroup</td>
     <td class="tg-9wq8">DDR5 16GB 4800 MHz SO-DIMM</td>
     <td class="tg-9wq8">42.55</td>
-    <td class="tg-9wq8">https://www.amazon.com/gp/product/B09X1WVTHS/</td>
+    <td class="tg-9wq8"><a href="https://www.amazon.com/gp/product/B09X1WVTHS/" target="_blank" rel="noopener noreferrer">https://www.amazon.com/gp/product/B09X1WVTHS/</a></td>
   </tr>
   <tr>
     <td class="tg-9wq8">Power Supply</td>
     <td class="tg-9wq8">FSP</td>
     <td class="tg-9wq8">FSP-450-50SD</td>
     <td class="tg-9wq8">52</td>
-    <td class="tg-9wq8">https://item.jd.com/6060172.html</td>
+    <td class="tg-9wq8"><a href="https://item.jd.com/6060172.html" target="_blank" rel="noopener noreferrer">https://item.jd.com/6060172.html</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh">SATA Data Cable</td>
-    <td class="tg-baqh">Unknown</td>
-    <td class="tg-baqh">SATA 3.0 Right-Angle x 6</td>
-    <td class="tg-baqh">5.65</td>
-    <td class="tg-baqh">https://www.aliexpress.us/item/3256806110307142.html</td>
+    <td class="tg-c3ow">SATA Data Cable</td>
+    <td class="tg-c3ow">Unknown</td>
+    <td class="tg-c3ow">SATA 3.0 Right-Angle x 6</td>
+    <td class="tg-c3ow">5.65</td>
+    <td class="tg-c3ow"><a href="https://www.aliexpress.us/item/3256806110307142.html" target="_blank" rel="noopener noreferrer">https://www.aliexpress.us/item/3256806110307142.html</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh">SATA Power Cable</td>
-    <td class="tg-baqh">Unknown</td>
-    <td class="tg-baqh">1-to-6 and 1-to-4 SATA Power Cable</td>
-    <td class="tg-baqh">5.68</td>
-    <td class="tg-baqh">https://www.aliexpress.us/item/3256805375848315.html</td>
+    <td class="tg-c3ow">SATA Power Cable</td>
+    <td class="tg-c3ow">Unknown</td>
+    <td class="tg-c3ow">1-to-6 and 1-to-4 SATA Power Cable</td>
+    <td class="tg-c3ow">5.68</td>
+    <td class="tg-c3ow"><a href="https://www.aliexpress.us/item/3256805375848315.html" target="_blank" rel="noopener noreferrer">https://www.aliexpress.us/item/3256805375848315.html</a></td>
   </tr>
   <tr>
-    <td class="tg-baqh">Shipping</td>
-    <td class="tg-baqh">--</td>
-    <td class="tg-baqh">--</td>
-    <td class="tg-baqh">41</td>
-    <td class="tg-baqh">--</td>
+    <td class="tg-c3ow">Shipping</td>
+    <td class="tg-c3ow">--</td>
+    <td class="tg-c3ow">--</td>
+    <td class="tg-c3ow">41</td>
+    <td class="tg-c3ow">--</td>
   </tr>
   <tr>
-    <td class="tg-lqy6" colspan="3">Total Cost (no HDD)</td>
-    <td class="tg-baqh" colspan="2">380.63</td>
+    <td class="tg-dvpl" colspan="3">Total Cost (no HDD)</td>
+    <td class="tg-c3ow" colspan="2">380.63</td>
   </tr>
   <tr>
-    <td class="tg-lqy6" colspan="3">Total Cost (with HDD)</td>
-    <td class="tg-baqh" colspan="2">959.78</td>
+    <td class="tg-dvpl" colspan="3">Total Cost (with HDD)</td>
+    <td class="tg-c3ow" colspan="2">959.78</td>
   </tr>
 </tbody></table>
 [To be continued]
