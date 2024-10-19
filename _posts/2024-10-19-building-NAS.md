@@ -127,15 +127,15 @@ SFX PSU TBD
   </tr>
   <tr>
     <td class="tg-9wq8">HDD</td>
-    <td class="tg-9wq8">TBD</td>
-    <td class="tg-9wq8">TBD</td>
-    <td class="tg-9wq8">TBD</td>
-    <td class="tg-9wq8">TBD</td>
+    <td class="tg-9wq8">Seagate</td>
+    <td class="tg-9wq8">IronWolf Pro 12TB<br></td>
+    <td class="tg-9wq8">579.15</td>
+    <td class="tg-9wq8">https://www.ebay.com/itm/355874423254</td>
   </tr>
   <tr>
     <td class="tg-9wq8">Memory</td>
-    <td class="tg-9wq8">Teamgroup<br></td>
-    <td class="tg-9wq8">DDR5 16GB 4800 MHz SO-DIMM<br></td>
+    <td class="tg-9wq8">Teamgroup</td>
+    <td class="tg-9wq8">DDR5 16GB 4800 MHz SO-DIMM</td>
     <td class="tg-9wq8">42.55</td>
     <td class="tg-9wq8">https://www.amazon.com/gp/product/B09X1WVTHS/</td>
   </tr>
@@ -147,7 +147,6 @@ SFX PSU TBD
     <td class="tg-9wq8">https://item.jd.com/6060172.html</td>
   </tr>
 </tbody></table>
-
 [To be continued]
 
 ## Phase 1: Assemble the hardware
