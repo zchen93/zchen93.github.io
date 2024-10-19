@@ -106,7 +106,7 @@ SFX PSU TBD
 </style>
 <table class="tg"><thead>
   <tr>
-    <th class="tg-9wq8">Component</th>
+    <th class="tg-9wq8">Item</th>
     <th class="tg-9wq8">Brand</th>
     <th class="tg-9wq8">Model</th>
     <th class="tg-9wq8">Cost (USD)</th>
