@@ -101,6 +101,8 @@ SFX PSU TBD
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-lqy6{text-align:right;vertical-align:top}
 </style>
 <table class="tg"><thead>
   <tr>
@@ -115,7 +117,7 @@ SFX PSU TBD
     <td class="tg-9wq8">Case</td>
     <td class="tg-9wq8">Jonsbo</td>
     <td class="tg-9wq8">N1</td>
-    <td class="tg-9wq8">110</td>
+    <td class="tg-9wq8">84.34</td>
     <td class="tg-9wq8">https://item.jd.com/10038246252061.html</td>
   </tr>
   <tr>
@@ -128,7 +130,7 @@ SFX PSU TBD
   <tr>
     <td class="tg-9wq8">HDD</td>
     <td class="tg-9wq8">Seagate</td>
-    <td class="tg-9wq8">IronWolf Pro 12TB<br></td>
+    <td class="tg-9wq8">IronWolf Pro 12TB</td>
     <td class="tg-9wq8">579.15</td>
     <td class="tg-9wq8">https://www.ebay.com/itm/355874423254</td>
   </tr>
@@ -143,8 +145,37 @@ SFX PSU TBD
     <td class="tg-9wq8">Power Supply</td>
     <td class="tg-9wq8">FSP</td>
     <td class="tg-9wq8">FSP-450-50SD</td>
-    <td class="tg-9wq8">56.63</td>
+    <td class="tg-9wq8">52</td>
     <td class="tg-9wq8">https://item.jd.com/6060172.html</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">SATA Data Cable</td>
+    <td class="tg-baqh">Unknown</td>
+    <td class="tg-baqh">SATA 3.0 Right-Angle x 6</td>
+    <td class="tg-baqh">5.65</td>
+    <td class="tg-baqh">https://www.aliexpress.us/item/3256806110307142.html</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">SATA Power Cable</td>
+    <td class="tg-baqh">Unknown</td>
+    <td class="tg-baqh">1-to-6 and 1-to-4 SATA Power Cable</td>
+    <td class="tg-baqh">5.68</td>
+    <td class="tg-baqh">https://www.aliexpress.us/item/3256805375848315.html</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Shipping</td>
+    <td class="tg-baqh">--</td>
+    <td class="tg-baqh">--</td>
+    <td class="tg-baqh">41</td>
+    <td class="tg-baqh">--</td>
+  </tr>
+  <tr>
+    <td class="tg-lqy6" colspan="3">Total Cost (no HDD)</td>
+    <td class="tg-baqh" colspan="2">380.63</td>
+  </tr>
+  <tr>
+    <td class="tg-lqy6" colspan="3">Total Cost (with HDD)</td>
+    <td class="tg-baqh" colspan="2">959.78</td>
   </tr>
 </tbody></table>
 [To be continued]
