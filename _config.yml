@@ -1,13 +1,14 @@
-title: "Under the clouds | FWC"
+title: "FWC | Under the cloud"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # Options: air, aqua, contrast, dark, dirt, neon, sunrise
+minimal_mistakes_skin: "air"
 
-# Math Support (LaTeX)
+# Math Support
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+  syntax_highlighter: rouge
 
-# Collections for Hardware & Photography
+# Collections
 collections:
   hardware:
     output: true
@@ -16,28 +17,11 @@ collections:
     output: true
     permalink: /photography/:path/
 
+# Global Defaults
 defaults:
   - scope:
       path: ""
-      type: posts
     values:
-      layout: single
-      mathjax: true
-	author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-remote-theme
-  - jekyll-include-cache
-  - jekyll-paginate
-
-# Explicitly set the markdown engine for MathJax compatibility
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+      layout: "single"
+      author_profile: true
+      mathjax: truei
