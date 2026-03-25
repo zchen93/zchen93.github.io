@@ -1,7 +1,12 @@
 source "https://rubygems.org"
 
-# Use the modern Jekyll version
 gem "jekyll", "~> 4.3.3"
+
+# These are the missing pieces Ruby 4.0 needs
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "mutex_m"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
@@ -11,6 +16,4 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
 end
 
-# Performance and compatibility gems for Ruby 3.x/4.x
 gem "webrick"
-gem "jekyll-sass-converter", "~> 2.0"

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-03-24T17:17:54-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Under the clouds | FWC</title><entry><title type="html">Quantum Hardware Equations</title><link href="http://localhost:4000/2026/03/24/math-test.html" rel="alternate" type="text/html" title="Quantum Hardware Equations" /><published>2026-03-24T00:00:00-07:00</published><updated>2026-03-24T00:00:00-07:00</updated><id>http://localhost:4000/2026/03/24/math-test</id><content type="html" xml:base="http://localhost:4000/2026/03/24/math-test.html"><![CDATA[<p>Here is an elegant equation for my hardware blog:</p>
+
+\[\hat{H}\Psi = E\Psi\]
+
+<p>And inline math like $a^2 + b^2 = c^2$.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Here is an elegant equation for my hardware blog:]]></summary></entry></feed>
