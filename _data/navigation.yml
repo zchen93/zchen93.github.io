@@ -1,0 +1,8 @@
+# _data/navigation.yml
+main:
+  - title: "About"
+    url: /about/
+  - title: "Hardware"
+    url: /hardware/
+  - title: "Photography"
+    url: /photography/
