@@ -1,0 +1,7 @@
+---
+# Only main.scss needs this front matter (the two dashes)
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'air' }}"; // your skin
+@import "minimal-mistakes"; // the main theme code
+@import "minimal-mistakes/custom"; // <--- THIS LOADS YOUR NEW FILE

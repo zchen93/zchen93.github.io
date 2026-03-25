@@ -1,6 +1,6 @@
-title: "FWC | Azimuth"
+title: "The Azimuth"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dirt"
+minimal_mistakes_skin: "air"
 
 # Math Support
 markdown: kramdown
@@ -44,3 +44,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:1rjecixc5@mozmail.com"
+      
+minimal_mistakes_javascripts:
+  - /assets/js/main.min.js

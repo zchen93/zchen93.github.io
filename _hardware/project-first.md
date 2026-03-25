@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Project Zero: The Overhaul"
 tools: [Logic Analyzer, KiCad, Ruby 3.3]
 status: "In Progress"

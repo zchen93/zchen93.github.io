@@ -1,0 +1,62 @@
+/* Create a responsive masonry-style column layout */
+.photography-gallery {
+  column-count: 3; /* 3 columns on desktop */
+  column-gap: 15px;
+}
+
+@media (max-width: 800px) {
+  .photography-gallery { column-count: 2; } /* 2 on tablets */
+}
+
+@media (max-width: 500px) {
+  .photography-gallery { column-count: 1; } /* 1 on mobile */
+}
+
+.photography-gallery figure {
+  display: inline-block;
+  margin: 0 0 15px;
+  width: 100%;
+}
+
+.photography-gallery img {
+  border-radius: 4px;
+  display: block;
+  width: 100%;
+}
+
+figcaption {
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.75em;
+  color: #7a7a7a;
+  text-align: center;
+  margin-top: 0.8em;
+  line-height: 1.4;
+}
+
+.grid__item img {
+  transition: opacity 0.3s ease-in-out;
+}
+
+.grid__item img:hover {
+  opacity: 0.8;
+  cursor: zoom-in;
+}
+
+.mjx-chtml {
+  margin-top: 1.5em !important;
+  margin-bottom: 1.5em !important;
+}
+
+/* Style the caption inside the enlarged Lightbox */
+.mfp-title {
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 0.9em;
+  color: #eee;
+  padding-right: 40px;
+  line-height: 1.5;
+}
+
+.mfp-counter {
+  font-family: sans-serif;
+  color: #888;
+}
