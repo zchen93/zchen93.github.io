@@ -13,4 +13,4 @@ gallery:
 
 Explore my collection of hardware and landscape photography.
 
-{% include gallery caption="true" %}
+{% include gallery %}
