@@ -6,4 +6,4 @@ collection: hardware
 author_profile: true
 ---
 
-Welcome to my hardware documentation. Below are my latest builds: (?)
+Welcome to my personal hardware blog. This is the section where I post notes, thoughts, and my work regarding antenna/rf engineering. 
