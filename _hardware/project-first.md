@@ -8,4 +8,4 @@ collection: hardware
 
 # Hardware Documentation
 Successfully migrated the GitHub.io environment to **Apple Silicon arm64**.
-Next step: Integrating high-resolution photo galleries.
+More to follow! 

@@ -35,3 +35,12 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache  # <--- THIS IS THE FIX
   - jekyll-remote-theme
+
+author:
+  name   : "FWC"
+  bio    : "Antenna Engineer & Photographer"
+  location: "SF Bay Area, California, USA"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:1rjecixc5@mozmail.com"
