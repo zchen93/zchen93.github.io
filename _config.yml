@@ -1,6 +1,6 @@
-title: "FWC | Under the cloud"
+title: "FWC | Azimuth"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dirt"
 
 # Math Support
 markdown: kramdown
@@ -38,7 +38,7 @@ plugins:
 
 author:
   name   : "FWC"
-  bio    : "Antenna Engineer & Photographer"
+  bio    : "Explorer"
   location: "SF Bay Area, California, USA"
   links:
     - label: "Email"
