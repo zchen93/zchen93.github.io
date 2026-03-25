@@ -1,21 +1,12 @@
-title: FWC | RF/Antenna/HardwareTech & Photography
-email: 1rjecixc5@mozmail.com
-description: >-
-  Technical hardware documentation and photographic collections.
-baseurl: "" 
-url: "https://zchen93.github.io"
-
-# Collections for your specific work
-collections:
-  hardware:
-    output: true
-    permalink: /hardware/:path/
-  photography:
-    output: true
-    permalink: /gallery/:path/
-
-# Build settings
-theme: minima # You can change this once you pick your final template
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
+
+# Explicitly set the markdown engine for MathJax compatibility
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
