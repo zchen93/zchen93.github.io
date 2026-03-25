@@ -2,18 +2,18 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.3"
 
-# These are the missing pieces Ruby 4.0 needs
+# Essential for Ruby 3.x/4.x compatibility
 gem "csv"
 gem "base64"
 gem "bigdecimal"
 gem "mutex_m"
+gem "webrick"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
-  gem "jekyll-remote-theme"
+  gem "jekyll-gist"           # <--- ADDED THIS
   gem "jekyll-include-cache"
+  gem "jekyll-remote-theme"
   gem "jekyll-paginate"
 end
-
-gem "webrick"
